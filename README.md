@@ -8,8 +8,13 @@ This repository contains the code for a travel package management system designe
 
 # Structure
 
-Activity.java: Defines activities available at destinations, including details like name, description, cost, and capacity.
-Destination.java: Represents a destination within a travel package, listing available activities.
-Passenger.java: Abstract class for passengers with specific attributes. Subclasses differentiate passenger types.
-PassengerType.java: Enumerates types of passengers (e.g., Standard, Gold, Premium).
-TravelPackage.java: Central class representing a travel package, including destinations, passengers, and capacity management.
+# Activity.java:
+Defines activities available at destinations, including details like name, description, cost, and capacity.
+# Destination.java:
+Represents a destination within a travel package, listing available activities.
+# Passenger.java:
+Abstract class for passengers with specific attributes. Subclasses differentiate passenger types.
+# PassengerType.java:
+Enumerates types of passengers (e.g., Standard, Gold, Premium).
+# TravelPackage.java:
+Central class representing a travel package, including destinations, passengers, and capacity management.
